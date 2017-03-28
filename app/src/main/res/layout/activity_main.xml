@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/black"
+    android:fillViewport="true"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="@dimen/activity_horizontal_margin"
+    tools:context="com.example.android.androidcolors.MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <View
+            android:id="@+id/color100"
+            android:layout_width="match_parent"
+            android:layout_height="70dip" />
+
+        <View
+            android:id="@+id/color90"
+            android:layout_width="match_parent"
+            android:layout_height="70dip"
+            android:layout_marginTop="@dimen/activity_horizontal_margin" />
+
+        <View
+            android:id="@+id/color80"
+            android:layout_width="match_parent"
+            android:layout_height="70dip"
+            android:layout_marginTop="@dimen/activity_horizontal_margin" />
+
+        <View
+            android:id="@+id/color70"
+            android:layout_width="match_parent"
+            android:layout_height="70dip"
+            android:layout_marginTop="@dimen/activity_horizontal_margin" />
+
+        <View
+            android:id="@+id/color60"
+            android:layout_width="match_parent"
+            android:layout_height="70dip"
+            android:layout_marginTop="@dimen/activity_horizontal_margin" />
+
+
+        <View
+            android:id="@+id/color50"
+            android:layout_width="match_parent"
+            android:layout_height="70dip"
+            android:layout_marginTop="@dimen/activity_horizontal_margin" />
+
+
+        <View
+            android:id="@+id/color40"
+            android:layout_width="match_parent"
+            android:layout_height="70dip"
+            android:layout_marginTop="@dimen/activity_horizontal_margin" />
+
+
+        <View
+            android:id="@+id/color30"
+            android:layout_width="match_parent"
+            android:layout_height="70dip"
+            android:layout_marginTop="@dimen/activity_horizontal_margin" />
+
+
+        <View
+            android:id="@+id/color20"
+            android:layout_width="match_parent"
+            android:layout_height="70dip"
+            android:layout_marginTop="@dimen/activity_horizontal_margin" />
+
+        <View
+            android:id="@+id/color10"
+            android:layout_width="match_parent"
+            android:layout_height="70dip"
+            android:layout_marginTop="@dimen/activity_horizontal_margin" />
+
+        <View
+            android:id="@+id/color0"
+            android:layout_width="match_parent"
+            android:layout_height="70dip"
+            android:layout_marginTop="@dimen/activity_horizontal_margin" />
+    </LinearLayout>
+
+</ScrollView>
