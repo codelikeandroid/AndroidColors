@@ -40,5 +40,5 @@ Hex Opacity Values
 - 5% — 0D
 - 0% — 00
 
-You can take a look at the Android documentation for colors.
+You can take a look at the [Android documentation for colors](https://developer.android.com/guide/topics/resources/more-resources.html#Color).
 
