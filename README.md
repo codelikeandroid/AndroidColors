@@ -1,7 +1,9 @@
-# AndroidColors
+# Android Transparent Colors
 Usually when you create the design for an Android app we must add some transparency to different UI elements according to the requirements.
 
 In order to have a transparent background, but not fully transparent, you should compute the hex number assigned to the desired percent of transparency in the alpha channel.
+
+<img align="center" src="https://magdamiu.files.wordpress.com/2017/03/android-transparent-colors-1.png?w=660" alt="magdamiu">
 
 For example to make the red color have 20% in the alpha channel you should use this code #CCFF0000.
 
